@@ -15,7 +15,7 @@ collections:
   - label: "Topics"
     name: "topics"
     folder: "_topics"
-    create: false
+    create: true
     slug: "{{slug}}"
     delete: false
     editor:
@@ -26,7 +26,7 @@ collections:
         name: "title"
         widget: "string"
         required: true
-        hint: "Enter the topic title. If want to add more topics, please contact the admin @team.anastomosis@gmail.com."
+        hint: "Enter the topic title."
       - label: "Brief Description about the topic"
         name: "body"
         widget: "markdown"
