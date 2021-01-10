@@ -209,6 +209,7 @@ collections:
         name: "body"
         widget: "markdown"
         required: false
+# articles
   - label: "Articles"
     name: "articles"
     folder: "_posts"
