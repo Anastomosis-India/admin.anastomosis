@@ -26,7 +26,7 @@
   <!-- Content -->
   {{ content }}
   <!-- End Content -->
-  
+
 <!-- Footer Section -->
 <div class="footer-section position-relative">
   <div class="container margin-decrese">
@@ -90,10 +90,25 @@
   <div class="shape-holder footer-shape-2" data-aos="zoom-in-right" data-aos-once="true"><img src="{{ site.baseurl }}/assets/image/footer-shape.svg" alt=""></div>
 </div>
 </div>
+   
   <!-- Vendor JS-->
   <script src="{{ site.baseurl }}/assets/plugins/jquery/jquery.min.js"></script>
   <script src="{{ site.baseurl }}/assets/plugins/jquery/jquery-migrate.min.js"></script>
   <script src="{{ site.baseurl }}/assets/plugins/bootstrap-4.3.1/js/bootstrap.bundle.js"></script>
+
+  <!-- Netlify CMS Scripts -->
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 
   <!-- Plugins JS -->
   <script src="{{ site.baseurl }}/assets/plugins/meanmenu/jquery.meanmenu.js"></script>
