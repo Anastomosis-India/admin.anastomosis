@@ -1,5 +1,5 @@
 ---
-name: Ev writer
+name: Eva
 display_name: Evangilin Elvin
 avatar: /uploads/screenshot_20210111_104211.jpg
 email: evanelvin1707@gmail.com
