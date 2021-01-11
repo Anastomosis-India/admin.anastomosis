@@ -56,6 +56,11 @@ collections:
         widget: "string"
         required: true
         hint: "Your Fullname."
+      - label: "Your profile color"
+        name: "auth_color"
+        widget: "color"
+        required: true
+        hint: "Choose a color to use in your profile page for elements like buttons etc."
       - label: "Avatar"
         name: "avatar"
         widget: "image"
