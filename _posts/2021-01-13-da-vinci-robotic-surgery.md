@@ -6,7 +6,10 @@ image: /uploads/surgical_1200x736_davinci.jpg
 author: Eva
 topic: Health
 tags:
-  - "#medicine#innovations#robotics"
+  - medicine
+  - innovations
+  - robotics
+  - technology
 ---
 Robotics when in incorporated into medicine can create wonders. One such astonishing innovation is the Da Vinci surgical robot. Da Vinci procedures are performed for a wide range of conditions under cardiac, gynaecology, paediatric, urology specialisations. 
 
