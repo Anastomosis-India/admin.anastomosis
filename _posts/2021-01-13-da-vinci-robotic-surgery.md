@@ -1,7 +1,7 @@
 ---
 date: 2021-01-13 08:44:38
 layout: post
-title: DA VINCI ROBOTIC SURGERY
+title: Da Vinci Robotic Surgery
 image: /uploads/surgical_1200x736_davinci.jpg
 author: Eva
 topic: Health
