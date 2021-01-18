@@ -30,4 +30,4 @@ Human minds reckon for compliments. A small pat on the back for cleaning your ro
 
 Along those lines, nurture your relationships with your family and friends. Although relationships take effort, they also provide you with the fuel you need to keep going when you’ve exhausted your supply. A small effort to bring a big smile to your face.
 
-At the end of the day, you are who you are. There will be burnouts but keep your eyes on the big picture. Always.
+At the end of the day, you are who you are. There will be burnouts but keep your eyes on the bigger picture. Always.
