@@ -27,7 +27,7 @@ Have you ever felt that you are great at talking to a person one-on-one but the 
 
 If you were asked to go up to a total stranger and strike up a conversation would you feel flustered and start rehearsing what you would say to that person?
 
-(*Instead of having a conversation with real people, me having a conversation with my socially anxious brain*
+(*Instead of having a conversation with real people, me having a conversation with my socially anxious brain on how to start a discussion*
 
 *"Me: Hi!* 
 
