@@ -25,7 +25,23 @@ Have you ever come up with different things you could have said or done by conti
 
 Have you ever felt that you are great at talking to a person one-on-one but the moment you step into a discussion you feel lost or uncomfortable? (*"What are they talking about? I have a valid point to present but should I? Will I be interrupting them? I should just leave!"*)
 
-If you were asked to go up to a total stranger and strike up a conversation would you feel flustered and start rehearsing what you would say to that person? (*"Hi! No, Hey! No, How you doin? Ummm... Never mind!"*)
+If you were asked to go up to a total stranger and strike up a conversation would you feel flustered and start rehearsing what you would say to that person?
+
+(*Instead of having a conversation with real people, me having a conversation with my socially anxious brain*
+
+*"Me: Hi!* 
+
+*My* socially anxious brain: *No*
+
+*Me: Hey!*
+
+*My* socially anxious brain: *No*
+
+*Me: How you doin'?*
+
+*My* socially anxious brain: *Ummm...* 
+
+*Me: Never mind!")*
 
 Chances are you have social anxiety. It is a rather common condition.
 
